@@ -1,0 +1,15 @@
+Hướng dẫn cài đặt
+Yêu cầu phần mềm XAMPP hỗ trợ phiên bản PHP 7.4
+Giải nén và copy project vào thư mục htdocs của xampp. Thông thường thư mục htdocs sẽ có đường dẫn: C:xampp/htdocs.
+Chạy XAMPP
+Nhập lên trình duyệt đường dẫn:
+http://localhost/Website/
+
+Tạo db tên là website
+Import cơ sở dữ liệu mẫu vào cơ sở dữ liệu mysql vừa tạo trên phpmyadmin. file cơ sở dữ liệu mới này nằm trong cùng một thư mục với tài liệu hưỡng dẫn này.
+
+Tài khoản đăng nhập "/admin"
++tk: admin mk:123456
+
+Tài khoản đăng nhập trang store "/"      
++tk: sonwin111 mk:hoangson123
